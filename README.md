@@ -1,6 +1,7 @@
-# Automation usinf fingure gesture
+# Automation using fingure gesture
+DEMO:- https://youtu.be/di_7B-S1Npw
 
-here is a stap hoe to set up
+here is a stap how to set up
 
 1) install raspbian os in your rapberry pi
 
