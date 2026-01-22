@@ -1,0 +1,3 @@
+# Raspberry Pi Server Dependencies
+RPi.GPIO>=0.7.0
+
